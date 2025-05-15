@@ -19,8 +19,8 @@ believes the entry represents (Integer > 0)
 (Bachelors, Some­ college, 11th, HS­ grad, Prof­ school, Assoc­ acdm, Assoc­ voc,
 9th, 7th­ 8th, 12th, Masters, 1st­ 4th, 10th, Doctorate, 5th­ 6th, Preschool).
 - **education.­num:** the highest level of education achieved in numerical form
-(Integer > 0)
-marital­ .status: marital status of an individual. Married­ civ­ spouse corresponds
+(Integer > 0).
+- **marital­.status:** marital status of an individual. Married­ civ­ spouse corresponds
 to a civilian spouse while Married­ AF­ spouse is a spouse in the Armed Forces
 (Married­ civ­ spouse, Divorced, Never­ married, Separated, Widowed,
 Married­ spouse­ absent, Married­ AF­ spouse).
